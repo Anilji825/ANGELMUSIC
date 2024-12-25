@@ -24,7 +24,7 @@ Click the button below to easily deploy **Dns Music Bot** on Heroku!
 
 > If you encounter an error during app creation, try forking the repository first.
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/MISH0009/DNS"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Anilji825/ANGELMUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
 
 ---
 ## 🖇️ VPS Deployment Guide
