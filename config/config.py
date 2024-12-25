@@ -75,7 +75,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6955568347").split())
+    map(int, getenv("OWNER_ID", "7391857972").split())
 )  # Input type must be interger
 
 
@@ -109,10 +109,10 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/Dns_Official_Channel"
+    "SUPPORT_CHANNEL", "https://t.me/TGSTYLENAME"
 )  # Example:- https://t.me/TheTeamVivek
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/DNS_NETWORK"
+    "SUPPORT_GROUP", "https://t.me/FRIEND_KI_MASTI"
 )  # Example:- https://t.me/TheTeamVk
 
 
@@ -340,7 +340,7 @@ if GLOBAL_IMG_URL:
 
 
 if STATS_IMG_URL:
-    if STATS_IMG_URL != "https://telegra.ph/file/4dd9e2c231eaf7c290404.jpg":
+    if STATS_IMG_URL != "https://graph.org/file/ee3571f311e9519513070-04e968451658fa5d26.jpg":
         if not re.match("(?:http|https)://", STATS_IMG_URL):
             print(
                 "[ERROR] - Your STATS_IMG_URL url is wrong. Please ensure that it starts with https://"
