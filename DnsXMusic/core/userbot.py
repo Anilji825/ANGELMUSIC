@@ -1,4 +1,4 @@
-#
+hu#
 # Copyright (C) 2024 by MISH0009@Github, < https://github.com/MISH0009 >.
 #
 # This file is part of < https://github.com/MISH0009/DNS > project,
@@ -62,10 +62,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("DNS_NETWORK")
-                await self.one.join_chat("DNS_NETWORK")
-                await self.one.join_chat("DNS_NETWORK")
-                await self.one.join_chat("DNS_NETWORK")
+                await self.one.join_chat("FRIEND_KI_MASTI")
+                await self.one.join_chat("TGSTYLENAME")
+                await self.one.join_chat("FRIEND_KI_MASTI")
+                await self.one.join_chat("TGSTYLENAME")
             except:
                 pass
             assistants.append(1)
@@ -89,10 +89,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("DNS_NETWORK")
-                await self.two.join_chat("DNS_NETWORK")
-                await self.two.join_chat("DNS_NETWORK")
-                await self.two.join_chat("DNS_NETWORK")
+                await self.two.join_chat("FRIEND_KI_MASTI")
+                await self.two.join_chat("TGSTYLENAME")
+                await self.two.join_chat("FRIEND_KI_MASTI")
+                await self.two.join_chat("TGSTYLENAME")
             except:
                 pass
             assistants.append(2)
@@ -116,10 +116,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("DNS_NETWORK")
-                await self.three.join_chat("DNS_NETWORK")
-                await self.three.join_chat("DNS_NETWORK")
-                await self.three.join_chat("DNS_NETWORK")
+                await self.three.join_chat("FRIEND_KI_MASTI")
+                await self.three.join_chat("TGSTYLENAME")
+                await self.three.join_chat("FRIEND_KI_MASTI")
+                await self.three.join_chat("TGSTYLENAME")
             except:
                 pass
             assistants.append(3)
@@ -143,10 +143,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("DNS_NETWORK")
-                await self.four.join_chat("DNS_NETWORK")
-                await self.four.join_chat("DNS_NETWORK")
-                await self.four.join_chat("DNS_NETWORK")
+                await self.four.join_chat("FRIEND_KI_MASTI")
+                await self.four.join_chat("TGSTYLENAME")
+                await self.four.join_chat("FRIEND_KI_MASTI")
+                await self.four.join_chat("TGSTYLENAME")
             except:
                 pass
             assistants.append(4)
@@ -170,10 +170,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("DNS_NETWORK")
-                await self.five.join_chat("DNS_NETWORK")
-                await self.five.join_chat("DNS_NETWORK")
-                await self.five.join_chat("DNS_NETWORK")
+                await self.five.join_chat("FRIEND_KI_MASTI")
+                await self.five.join_chat("TGSTYLENAME")
+                await self.five.join_chat("FRIEND_KI_MASTI")
+                await self.five.join_chat("TGSTYLENAME")
             except:
                 pass
             assistants.append(5)
